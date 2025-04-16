@@ -1,1 +1,3 @@
-TOKEN='7742183166:AAHk4k16TH4_Z5fAmpLtOxEb-8FSyxZWtu4'
+TOKEN = '7742183166:AAH9O7Vdth3shCVVMyH413uxTiotxZSvvZY'
+lang = 'ru' # "ru" or "en"
+ID = '5621417262' # Copy and paste your telegram id (@getmyid_bot)
