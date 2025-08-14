@@ -1,3 +1,3 @@
-TOKEN = '7742183166:AAH9O7Vdth3shCVVMyH413uxTiotxZSvvZY'
+TOKEN: str
 lang = 'ru' # "ru" or "en"
-ID = '5621417262' # Copy and paste your telegram id (@getmyid_bot)
+ID: int # Copy and paste your telegram id (@getmyid_bot)
